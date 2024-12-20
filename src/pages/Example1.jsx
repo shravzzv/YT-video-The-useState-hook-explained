@@ -4,7 +4,7 @@ export default function Example1() {
   return (
     <>
       <Navbar />
-      <p>Example 1</p>
+      <p>Example1 not implemented</p>
     </>
   )
 }
